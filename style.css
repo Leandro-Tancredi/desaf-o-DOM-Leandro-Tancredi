@@ -1,0 +1,35 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#titulo{
+    width: 100vw;
+    height: 30px;
+    margin: 0px;
+} 
+
+
+#titulo1{
+width:450px;
+height:100px;
+background-color: chartreuse;
+color: black;
+border: solid 2px;
+border-color: black;
+text-align: center;
+margin-left: 400px;
+padding-top: 20px;
+text-transform: capitalize;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 30px;
+font-weight: 10;
+}
+#titulo2{
+    background-color: blueviolet;
+}
+.pepe{
+    background-color: brown;
+    color: bisque;
+
+}
